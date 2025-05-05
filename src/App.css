@@ -104,8 +104,18 @@ button:hover {
   grid-template-columns: 50% 50%;
 }
 .infobox{
-  text-justify: justify;
-  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  color: #00000096;
+}
+#yijing{
+  height: 50%;
+  width: 100%;
+  background-color: #ffedba6b;
+  border: 1px solid #ffbb00;
+}
+#yijinganswer{
   text-align: center;
   font-weight: bold;
   font-size: 14px;
